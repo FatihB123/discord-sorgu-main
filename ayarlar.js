@@ -1,7 +1,7 @@
 ﻿module.exports = {
 
-    token: "",
-    prefix: ".",
+    token: "MTE4ODYzOTM4MTc2Mjg3MTQyNw.GeyBbf.CM0Osfxzn7ZfGl123SiTRpvtGZY8pLxv043e5Q",
+    prefix: "!",
     sahip: "1050457800054153256",
     durum: ".gg/mernistr",
 
